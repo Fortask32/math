@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/Fortask32/math/main/страны.csv",
+	"name": "Test",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Country" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 8 }
+	]
+}
